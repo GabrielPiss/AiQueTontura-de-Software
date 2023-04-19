@@ -13,7 +13,7 @@ Princípio Aberto - Fechado:
 https://moodle.utfpr.edu.br/pluginfile.php/2806889/mod_resource/content/1/Respostas%20questionario%20-%20SOLID%20-%20Open-closed.pdf
 	
 Liskov e Segregação: 
-https://moodle.utfpr.edu.br/pluginfile.php/2806889/mod_resource/content/1/Respostas%20questionario%20-%20SOLID%20-%20Open-closed.pdf
+https://moodle.utfpr.edu.br/pluginfile.php/2806895/mod_resource/content/1/Respostas%20questionario%20-%20SOLID%20-%20Liskov%20E%20Segregacao.pdf
 
 Padrões de Projetos: 
 https://moodle.utfpr.edu.br/pluginfile.php/2806923/mod_resource/content/2/Padroes%20-%20respostas.pdf
