@@ -1,0 +1,19 @@
+Questionários:
+
+Orientação a objetos: 
+https://moodle.utfpr.edu.br/pluginfile.php/2845835/mod_resource/content/2/Estruturas%20da%20Orientac%CC%A7a%CC%83o%20a%20Objetos.pdf
+
+Dry ou não dry: 
+https://moodle.utfpr.edu.br/pluginfile.php/2806861/mod_resource/content/1/Respostas%20questionario%20-%20Dry%20ou%20NAO%20DRY.pdf
+
+Uml - Descrição Arquitetural: 
+https://moodle.utfpr.edu.br/pluginfile.php/2872522/mod_resource/content/1/Descric%CC%A7a%CC%83o%20Arquitetural%20-%20Respostas.pdf
+
+Princípio Aberto - Fechado:
+https://moodle.utfpr.edu.br/pluginfile.php/2806889/mod_resource/content/1/Respostas%20questionario%20-%20SOLID%20-%20Open-closed.pdf
+	
+Liskov e Segregação: 
+https://moodle.utfpr.edu.br/pluginfile.php/2806889/mod_resource/content/1/Respostas%20questionario%20-%20SOLID%20-%20Open-closed.pdf
+
+Padrões de Projetos: 
+https://moodle.utfpr.edu.br/pluginfile.php/2806923/mod_resource/content/2/Padroes%20-%20respostas.pdf
